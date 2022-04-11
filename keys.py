@@ -1,0 +1,2 @@
+fcm_api_key = "AAAA6aEHMsM:APA91bHBsCmZzUeCIbd9gDS-V35fo5R7cTCas1gCCEn2IciK5VRhEFcPooOsnudRf3uRGpE7H5tC4J7GLdCdzvZPH8GxxDwQDL9vgdWkuQDvh69xeI8p80Axq4XpGcbzgs1vrBDItqv4"
+certificate_path = "rasp_kuam_firestore_key.json"

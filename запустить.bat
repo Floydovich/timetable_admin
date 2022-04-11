@@ -1,0 +1,1 @@
+start powershell -command "& '.\script.ps1' -NoLogo -ExecutionPolicy Unrestricted"
